@@ -1,0 +1,22 @@
+
+The data contained in bialek.xlsx is Copyright Janusz Bialek, Qiong Zhou and Neil Hutcheon.
+
+
+It was downloaded from:
+
+http://www.powerworld.com/knowledge-base/updated-and-validated-power-flow-model-of-the-main-continental-european-transmission-network
+
+The first two sheets "Bus Records" and "Line Records" come directly from the Excel file:
+
+<http://powerworld.com/files/bialek/Europe%20winter%202009%20model.xlsx>
+
+The third sheet "DisplayBus" was copied out of the file:
+
+<http://powerworld.com/files/bialek/ENTSO_E_2009_WINTER.pwd>
+
+after loading it into the free-to-download [PowerWorld Viewer](http://www.powerworld.com/products/viewer/overview).
+
+
+There is no official usage licence, but the abstract of the paper describing the data states:
+
+"The database created in this project has been made available for public use by making it accessible from PowerWorld website http://www.powerworld.com/bialek. It is hoped that it will be used widely to analyse transmission constraints and functioning of the energy market in Europe."
